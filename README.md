@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luke-Skynet
-- 👀 I’m interested in learning for right now.
+- 👀 I’m interested in just learning for right now.
 - 🌱 I’m currently learning java, python, ML-related Mathematics in undergrad.
 
 <!---
