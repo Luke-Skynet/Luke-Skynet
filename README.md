@@ -2,7 +2,7 @@
 -
 I am an undergrad student in New York, but I'm originally from Texas.   
 My main area of study is CS/Stats, and I love anything involving Artificial Intelligence, Machine Learning, or Data Science.  
-I like to use github to maintain my projects, and also my notes and assignments from CS classes.
+I like to use github to maintain my personal projects, as well as my notes and assignments from CS classes.
 
 <!---
 Luke-Skynet/Luke-Skynet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
