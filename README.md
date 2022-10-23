@@ -1,7 +1,7 @@
 👋 Hi, I’m @Luke-Skynet
 -
 I am an undergrad student in New York, but I'm originally from Texas.   
-My main area of study is CS/Stats, and I love anything Artificial Intelligence, Machine Learning, and Data Science.  
+My main area of study is CS/Stats, and I love anything involving Artificial Intelligence, Machine Learning, or Data Science.  
 I like to use github to maintain my projects, and also my notes and assignments from CS classes.
 
 <!---
